@@ -5,6 +5,7 @@
 
 #define INTEGRITY_SNAPSHOT_FILE "integrity_file.txt"
 
+/* author chensharp */
 int get_last_snapshot_(char *last_checkpoint)
 {
     //int myrank = get_comm_rank__();
