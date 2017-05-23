@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 double *read_data(char *file_name)
 {
     FILE * pFile;
